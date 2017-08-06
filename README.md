@@ -32,9 +32,15 @@
 
 - __Open Source Initiative [@OpenSourceOrg](https://twitter.com/OpenSourceOrg):__ 开源协会。
 
+- __Papers We Love [@papers_we_love](http:s//twitter.com/papers_we_love):__ 计算机科学论文阅读与交流社区。
+
 - __Duck Duck Go [@duckduckgo](https://twitter.com/duckduckgo):__ 不会跟踪你足迹的搜索软件。
 
 - __Ubuntu [@ubuntu](https://twitter.com/ubuntu):__ 乌班图。
+
+- __KDE Community [@kdecommunity](https://twitter.com/kdecommunity):__ KDE 桌面社区。
+
+- __Gnome Community [@gnome](https://twitter.com/gnome):__ Gnome 桌面社区。
 
 - __Eric S. Raymond [@esrtweet](https://twitter.com/esrtweet):__ 老牌黑客， 自由软件倡议者，《Unix 编程哲学》作者 ESR。
 
@@ -46,23 +52,34 @@
 
 - __RedHat Community [@redhatopen](https://twitter.com/redhatopen):__ 红帽社区。
 
+- __CronWeekly [@CronWeekly](https://twitter.com/CronWeekly):__ CronWeekly 系统管理员周报。
+
 
 ## 大数据，机器学习和 AI
 
 - __Andrew Ng [@andrewYNg](https://twitter.com/AndrewYNg):__ Coursera 创始人，AI 大牛吴恩达。
 
-- __DeepMind [@DeepMindAI](https://twitter.com/DeepMindAI):__
+- __DeepMind [@DeepMindAI](https://twitter.com/DeepMindAI):__ 谷歌 DeepMind 官方帐号。
 
-- __Tensorflow [@tensorflow](https://twitter.com/Tensorflow):__
+- __Tensorflow [@tensorflow](https://twitter.com/Tensorflow):__ 谷歌机器学习软件 Tensorflow 官方帐号。
 
+- __Kaggle [@kaggle](https://twitter.com/kaggle):__ Kaggle，世界最大的数据科学家学习平台与交流社区。
+
+- __O'Reilly AI [@OReillyAI](https://twitter.com/OReillyAI):__ O'Reilly AI 新闻。
+
+- __NVidia AI [@NvidiaAI](https://twitter.com/NvidiaAI):__ NVidia AI 新闻。
+
+- __Machine Learning [@ML_toparticles](https://twitter.com/ML_toparticles):__ 机器学习新闻。
 
 ## 前端, JavaScript
 
 - __Mozilla [@mozilla](https://twitter.com/mozilla):__ 火狐浏览器母公司谋智。
 
-- __JavaScript StackOverflow [@JSStack](https://twitter.com/JSStack):__
+- __JavaScript StackOverflow [@JSStack](https://twitter.com/JSStack):__ JavaScript StackOverflow。
 
-- __Addy Osmani [@addyosmani](https://twitter.com/addyosmani):__  Working on Google Chrome.
+- __Addy Osmani [@addyosmani](https://twitter.com/addyosmani):__  Working on Google Chrome。
+
+- __Brendan Eich [@BrendanEich](https://twitter.com/BrendanEich):__ Brendan Eich，JavaScript 之父。
 
 ## C/C++
 
@@ -74,6 +91,22 @@
 
 - __LLVM [@llvmorg](https://twitter.com/llvmorg):__ LLVM 工具链。
 
+- __OpenCL org [@OpenCLorg](https://twitter.com/OpenCLorg):__ openCL GPGPU 计算新闻。
+
+- __KhronosGroup [@thekhronosgroup](https://twitter.com/thekhronosgroup):__ Khronos，制定 openCL，openGL 标准的标准协会。
+
+- __NVIDIA HPC Developer [@NVIDIAHPCDev](https://twitter.com/NVIDIAHPCDev):__ 英伟达高性能计算。
+
+
+## Python
+
+- __Python Weekly [@PythonWeekly](https://twitter.com/PythonWeekly):__ Python 周报。
+
+- __Python Hub [@PythonHub](https://twitter.com/PythonHub):__ Python Hub。
+
+- __Effective Python [@EffectivePython](https://twitter.com/EffectivePython):__ Effective Python 官方帐号。
+
+- __Guido Van Rossum [gvanrossum](https://twitter.com/gvanrossum):__ Python 之父 Guido 大师。
 
 # 活动家与社会运动
 
@@ -115,18 +148,27 @@
 
 - __Jimmy Wales [@jimmy_wales](https://twitter.com/jimmy_wales):__ 维基百科创始人。
 
+- __Forbes [@Forbes](https://twitter.com/Forbes):__ 福布斯杂志。
+
+- __Bloomberg [@bloomberg](https://twitter.com/Bloomberg):__ Bloomberg 新闻。
+
+- __WSJ [@WSJ](https://twitter.com/WSJ):__ 华尔街日报。
+
+- __NYTimes [@nytimes](https:/twitter.com/nytimes):__ 纽约时报。
+
+- __Washington Post [@washingtonpost](https://twitter.com/washingtonpost):__ 华盛顿邮报。
+
 # 其他:
 
 - __XKCD [@xkcdComic](https://twitter.com/xkcdComic)__ XKCD 漫画。
 
 - __Programming Wisdom [@CodeWisdom](https://twitter.com/CodeWisdom):__ 诙谐的程序员大师语录。
 
-
+- __Commit Strip [@commitstrip](https://twitter.com/commitstrip):__ CommitStrip 漫画。强烈推荐的程序员漫画。
 
 -----
 
-LICENSE
+# LICENSE
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
